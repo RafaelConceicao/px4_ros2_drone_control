@@ -1,0 +1,25 @@
+# ROS 2 / Colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
+# ROS bags
+*.db3
+*.mcap
+
+# Arquivos temporários
+*.tmp
+*.swp
+src/px4_msgs/
